@@ -1,0 +1,1 @@
+[![CI](https://github.com/attachment4/NetologyHWSelector/actions/workflows/gradle.yml/badge.svg)](https://github.com/attachment4/NetologyHWSelector/actions/workflows/gradle.yml)
