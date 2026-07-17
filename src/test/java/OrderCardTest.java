@@ -35,7 +35,7 @@ public class OrderCardTest {
                         By.cssSelector("[data-test-id=order-success]")));
         String text = driver.findElement(By.cssSelector("[data-test-id=order-success]")).getText().trim();
         driver.quit();
-        assertEquals("Ваша заявка успешно отправле! Наш менеджер свяжется с вами в ближайшее время.", text);
+        assertEquals("Ваша заявка успешно отправлена! Наш менеджер свяжется с вами в ближайшее время.", text);
 
 
     }
